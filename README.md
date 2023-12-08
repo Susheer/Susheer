@@ -10,7 +10,7 @@ I'm a seasoned software developer with over 4 years of professional experience i
 - 📱 Exploring Flutter, Dart, and React Native for hybrid mobile application development
 - ⚙️ Specialized in building real-time applications, including a life support televentilator using React.js, Node.js, MQTT, and WebSockets
 - 🚀 Experience in developing applications and dashboards for healthcare, industrial applications, solar plants, and automobiles
-- 🌐 Skilled in technologies such as Node.js, Sails.js, Node-RED, Socket.IO, MQTT, RabbitMQ, AWS Cloud, GCP, GitHub, Bitbucket, GitLab
+- 🌐 Skilled in technologies such as Node.js, Sails.js, Express.JS, Node-RED, Socket.IO, MQTT, RabbitMQ, AWS Cloud, GCP, GitHub, Bitbucket, GitLab
 - 🌟 Proficient in state management with Redux and MobX
 - 🛠 Proficient in building web extensions for cross-browsers (Mozilla, Chrome, Firefox)
 - 🌐 Familiar with version control tools like Git, GitHub, Bitbucket, GitLab
@@ -19,7 +19,7 @@ I'm a seasoned software developer with over 4 years of professional experience i
 
 - 💻 **Frontend**: React.js, Flutter, React Native
 - 🌐 **Backend**: Node.js, Sails.js, Node-RED, MQTT, WebSockets
-- ☁️ **Cloud**: AWS, GCP
+- ☁️ **Cloud**: AWS, GCP, Digital Ocean
 - 🚀 **Other Technologies**: Electron.js, Socket.IO, RabbitMQ, Redux, MobX
 
 ## Projects
