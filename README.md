@@ -1,40 +1,4 @@
-# Hi there, I'm Sudheer Gupta! 👋
 
-The code wizard with a keyboard wand, weaving tech magic since 2012 and mastering the art of debugging enchantments! 🧙✨💻 Ready to turn bugs into butterflies and create code potions that sparkle! 🦋✨
-#CodingAdventures
-
-## About Me
-
-- 🎓 Master's in Computer Science
-- 💻 Currently working as a UI Developer
-- 🌐 Full-stack developer with expertise in building desktop applications for Windows, Mac, and Ubuntu using Electron.js and React.js
-- 📱 Exploring Flutter, Dart, and React Native for hybrid mobile application development
-- ⚙️ Specialized in building real-time applications, including a life support televentilator using React.js, Node.js, MQTT, and WebSockets
-- 🚀 Experience in developing applications and dashboards for healthcare, industrial applications, solar plants, and automobiles
-- 🌐 Skilled in technologies such as Node.js, Sails.js, Express.JS, Node-RED, Socket.IO, MQTT, RabbitMQ, AWS Cloud, GCP, GitHub, Bitbucket, GitLab
-- 🌟 Proficient in state management with Redux and MobX
-- 🛠 Proficient in building web extensions for cross-browsers (Mozilla, Chrome, Firefox)
-- 🌐 Familiar with version control tools like Git, GitHub, Bitbucket, GitLab
-
-## Tech Stack
-
-- 💻 **Frontend**: React.js, Flutter, React Native
-- 🌐 **Backend**: Node.js, Sails.js, Node-RED, MQTT, WebSockets
-- ☁️ **Cloud**: AWS, GCP, Digital Ocean
-- 🚀 **Other Technologies**: Electron.js, Socket.IO, RabbitMQ, Redux, MobX
-
-## Projects
-
-Here are a few projects I'm proud of:
-
-1. **Life Support Televentilator App**
-   - Real-time healthcare application built with React.js, Node.js, MQTT, and WebSockets.
-
-2. **Real-time Dashboard for Solar Plants**
-   - Dashboard for monitoring data from devices in solar plants using Angular.js, Node-RED, MQTT, and WebSockets.
-
-3. **Web Extensions for Cross-Browsers**
-   - Developed web extensions compatible with Mozilla, Chrome, and Firefox.
 
 ## Let's Connect
 
